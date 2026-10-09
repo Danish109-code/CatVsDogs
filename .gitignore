@@ -8,5 +8,4 @@ __pycache__/
 # Dataset
 dataset/
 
-# Large trained model
-models/cat_dog_model.keras
+# Keep the trained model out of Git unless explicitly added
